@@ -14,7 +14,7 @@ public class Product {
         selectedMerchantId = merchantId;
         importFile = new File(merchantId + "_product.txt");
         Scanner scanner = new Scanner(importFile);
-        System.out.println("Product ID, productName, unit Price, available, unit, office");
+        System.out.println("Product ID, productName, unit Price, available, unit");
         while (scanner.hasNextLine()) {
             String line = scanner.nextLine();
             System.out.println(line);
