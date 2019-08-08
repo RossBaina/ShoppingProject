@@ -1,0 +1,10 @@
+1,Coca Cola,11.5,true,3litros
+2,fideos lazaroni,6.5,true,0.5Kg
+3,Helados Delicia,11,true,0.5Kg
+4,Aceite Fino,33,true,5lt
+5,Queso Pil,45,true,1Kg
+6,Lava vajillas,17,true,1lt
+7,Tomate,4.5,true,kg
+8,Naranja,14,true,25u
+9,Embutido de la casa,44,true,1kg
+10,Yogurt delicia,21,true,1lt

@@ -1,0 +1,7 @@
+1,hipermaxi,Oquendo N234,true,main,0
+2,hipermaxi,blanco galindo km3,true,office,1
+3,hipermaxi,Juan de la Rosa N45,true,office,1
+4,Ice Norte,America Este N27,true,main,0
+5,Ice Norte,Melchor Perez N456,true,office,4
+6,SuperMercado America,Libertador N789,true,main,0
+7,SuperMercado America,ecologica N546,true,office,6
